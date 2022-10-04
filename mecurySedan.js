@@ -1,5 +1,5 @@
 //this includes the vehicle class as a module
-const VehicleModule = require("./vehicle");
+const VehicleModule = require("./vehicle").Vehicle;
 
 //Create a Car class that extends the Vehicle class
 //Add a constructor
